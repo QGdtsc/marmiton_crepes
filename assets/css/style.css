@@ -1,0 +1,88 @@
+
+/* <style> */
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+/* </style> */
+
+
+
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+/* #imgCrepes {
+    height: 15rem; */
+    /* display: block; */
+    /* text-align: center;
+} */
+
+
+#containerImgCrepes {
+    text-align: center;
+}
+
+/* #containerIngredients {
+    text-align: center;
+} */
+
+
+
+#containerIcons {
+    border: 3px solid black;
+    width: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+/* #containerListIngredients {
+    text-align: center;
+    margin-inline-start: 30rem;
+} */
+
+/* ul li {
+    margin-left: 40rem;
+} */
+
+
+#containerPreparation {
+    border: 3px solid black;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: grey; */
+    /* padding: 15px; */
+}
+
+#p_preparation {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+
+
+
+#containerListIngredients {
+    border: 3px solid black;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    font-family: Roboto;
+}
